@@ -1,5 +1,5 @@
-# $${\color{#ff0048}HIBERNATE \space \color{Magenta}PROJECT}$$
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HIBERNATE+PROJECT)](https://git.io/typing-svg)
+# $${\color{#ff0048}SPRING \space DATA \space JPA \space \space \color{Magenta}PROJECT}$$
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SPRING+DATA+JPA+PROJECT)](https://git.io/typing-svg)
 
 ## Описание 
 :rocket: **После интеграции Spring Data JPA в наш проект, мы смогли его протестировать с использованием написанных тестов на нашей локальной БД Postgres.**
